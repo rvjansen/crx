@@ -1,0 +1,5 @@
+/* 21.1 */
+  select
+    when 7=8 then nop
+  end 7
+

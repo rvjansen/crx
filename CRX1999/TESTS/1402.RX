@@ -1,0 +1,5 @@
+/* 14.2 */
+  nop
+  select
+    when 1 then nop
+
