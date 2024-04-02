@@ -4,8 +4,6 @@
 
 The zip file comprises the record of "Compact Rexx" (CRX) which was written in the years around 1999 to validate the ANSI Rexx Standard and its Errata.  CRX has served its purpose in that respect. It is a 40000 byte CRX.EXE made from 13000 hand coded assembler lines (with sometimes more than one machine instruction per line) and 3000 machine generated assembler lines.  There are 18000 lines of source for tools that make the 3000 from the contents of the Standard.  This would be a poor balance if one just wanted another Rexx interpreter ; it reflects the intent to take the Standard to execution with minimal human distortion.
 
-There is now a zip
-
 All readers now interested in CRX will benefit from at least skim reading:
 
 - The Standard. http://www.rexxla.org/rexxlang/standards/j18pub.pdf
